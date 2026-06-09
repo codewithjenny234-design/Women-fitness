@@ -224,6 +224,7 @@ footer {
 
     .meal-content {
         flex-direction: column;
+        height: auto;
     }
 
     .features-grid {
